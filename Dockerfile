@@ -1,4 +1,6 @@
 FROM redis
+# Author: Matthias Leuffen <m@tth.es> for https://infracamp.org
+
 
 ENV PRESET="memory_only"
 ENV MAXMEMORY="100mb"

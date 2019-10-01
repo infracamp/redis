@@ -1,4 +1,4 @@
-# Infracamp Redis container
+# Infracamp Redis container (`infracamp:redis`)
 
 This container is build upon the official `redis`-container. But it offers two extensions:
 
@@ -8,6 +8,7 @@ This container is build upon the official `redis`-container. But it offers two e
     - In Memory only usage
     - Snapshot usage
     - AOF Logfiles
+
 
 ## Presets available
 
